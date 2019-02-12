@@ -22,3 +22,11 @@ a {
 .link-laranja{
     color: #f39c12
 }
+
+.lista-linha {
+    padding-left: 0;
+    list-style: none;
+}
+.lista-linha li{
+    display: inline-block;
+}
