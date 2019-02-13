@@ -2,6 +2,7 @@
     color: white;
     text-align: center;
     margin-top: 7%;
+    font-family: 'Righteous', cursive;
 }
 .intro img {
     border-radius: 50%;
@@ -29,4 +30,8 @@ a {
 }
 .lista-linha li{
     display: inline-block;
+}
+
+.espaco-icone{
+    margin-left: 5%
 }
